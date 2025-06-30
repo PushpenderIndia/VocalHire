@@ -108,3 +108,14 @@ To run VocalHire locally, follow these steps:
 ### Interview Feedback
 ![](/Docs/InterviewFeedback.png)
 
+### Generated PDF Report
+![](/Docs/GeneratedPDFReport.png)
+
+### AI Mentor
+![](/Docs/AI_Mentor.png)
+
+### Start Interview
+![](/Docs/StartInterview.png)
+
+### AI Interviewer
+![](/Docs/AI_Interviewer.png)

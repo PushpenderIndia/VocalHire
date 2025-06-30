@@ -93,3 +93,18 @@ To run VocalHire locally, follow these steps:
 </tr>
 </tr>
 </table>
+
+## Screenshots
+
+### Home Page
+![](/Docs/Home.png)
+
+### My Interviews
+![](/Docs/MyInterviews.png)
+
+### Analysing Performance Loading Animation
+![](/Docs/AnalysingPerformance.png)
+
+### Interview Feedback
+![](/Docs/InterviewFeedback.png)
+

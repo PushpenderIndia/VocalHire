@@ -111,6 +111,19 @@ const HomePage: React.FC = () => {
                   <Play className="mr-2 h-5 w-5 group-hover:scale-110 transition-transform" />
                   Try AI Mentor
                 </Link>
+
+                <a
+        href="https://bolt.new"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="absolute bottom-4 right-4 z-20"
+      >
+        <img
+          src="https://raw.githubusercontent.com/kickiniteasy/bolt-hackathon-badge/refs/heads/main/src/public/bolt-badge/white_circle_360x360/white_circle_360x360.png"
+          alt="Built with Bolt.new"
+          className="w-12 h-12 md:w-16 md:h-16 transition-transform hover:scale-110"
+        />
+      </a>
               </div>
               
               <div className="flex items-center space-x-6 pt-4">

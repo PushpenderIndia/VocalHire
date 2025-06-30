@@ -14,7 +14,7 @@ const Navbar: React.FC = () => {
         </Link>
         
         {/* Desktop Menu */}
-        <div className="hidden md:flex items-center space-x-8">
+        <div className="hidden md:flex items-center space-x-6">
           <NavLinks />
           <Link 
             to="/interview" 
@@ -22,6 +22,14 @@ const Navbar: React.FC = () => {
           >
             Start Interview
           </Link>
+          <a 
+            href="https://bolt.new" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="text-xs text-gray-400 hover:text-purple-400 transition"
+          >
+            Built with Bolt.new ⚡
+          </a>
         </div>
         
         {/* Mobile Menu Button */}
@@ -44,6 +52,14 @@ const Navbar: React.FC = () => {
             >
               Start Interview
             </Link>
+            <a 
+              href="https://bolt.new" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-xs text-center text-gray-400 hover:text-purple-400 transition"
+            >
+              Built with Bolt.new ⚡
+            </a>
           </div>
         </div>
       )}

@@ -97,25 +97,33 @@ To run VocalHire locally, follow these steps:
 ## Screenshots
 
 ### Home Page
+*A welcoming entry point where users can start their interview journey.*
 ![](/Docs/Home.png)
 
 ### My Interviews
+*Review past interviews and track your improvement over time.*
 ![](/Docs/MyInterviews.png)
 
 ### Analysing Performance Loading Animation
+*An engaging animation while the AI processes your interview performance.*
 ![](/Docs/AnalysingPerformance.png)
 
 ### Interview Feedback
+*Receive a comprehensive analysis of your performance, including communication, technical skills, and body language.*
 ![](/Docs/InterviewFeedback.png)
 
 ### Generated PDF Report
+*Download a portable PDF of your detailed interview feedback to review offline.*
 ![](/Docs/GeneratedPDFReport.png)
 
 ### AI Mentor
+*Get personalized advice, resume feedback, and answers to your questions from the AI Mentor.*
 ![](/Docs/AI_Mentor.png)
 
 ### Start Interview
+*Customize your mock interview by selecting the domain, role, duration, and difficulty level.*
 ![](/Docs/StartInterview.png)
 
 ### AI Interviewer
+*An interactive voice-based interview with real-time transcription and AI proctoring.*
 ![](/Docs/AI_Interviewer.png)

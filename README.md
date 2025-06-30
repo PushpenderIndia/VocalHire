@@ -35,6 +35,10 @@ VocalHire leverages the power of voice to create an immersive and effective inte
 -   **📊 Instant, Detailed Feedback:** Receive a comprehensive PDF report after each interview, analyzing your communication, technical responses, body language, and soft skills, with actionable suggestions for improvement.
 -   **📈 Track Your Progress:** All your past interviews and feedback are saved, allowing you to track your improvement over time.
 
+## Elevator Pitch
+
+**VocalHire: Your personal AI interview coach.** Practice with voice, get instant feedback, and turn hesitation into confidence.
+
 ## Tech Stack & Acknowledgment
 
 VocalHire is built with a modern and powerful tech stack to deliver a seamless user experience.
